@@ -1,0 +1,41 @@
+.navbar{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 60px;
+    box-shadow: 0 1px 3px -2px #000;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo img {
+    max-width: 50px;
+    max-height: 50px;
+}
+.nav-logo-text{
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav-logo-text h1 {
+    margin: 0;
+    font-family: cursive;
+    font-size: 20px;
+    color: #3b83cf;
+    font-weight: 600;
+}
+
+.nav-logo-text p{
+    margin: 0px;
+    justify-content: end;
+   font-size: 10px;
+   color: #e03232;
+}
+
+.nav-user-icon{
+    width: 40px;
+}

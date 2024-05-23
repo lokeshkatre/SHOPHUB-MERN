@@ -25,6 +25,11 @@ This repository contains the source code for the ShopHub web application, includ
 - Image upload and management
 - Responsive design for mobile and desktop
 
+![Screenshot (32)](https://github.com/lokeshkatre/SHOPHUB-MERN/assets/102735711/5388a80d-812a-4253-9073-594b7e3a0434)
+![Screenshot (37)](https://github.com/lokeshkatre/SHOPHUB-MERN/assets/102735711/93d2a388-c070-4347-9532-6c68956f0351)
+![Screenshot (34)](https://github.com/lokeshkatre/SHOPHUB-MERN/assets/102735711/dccae9fc-1a2d-48a6-9a5a-bbf628dd243e)
+![Screenshot (38)](https://github.com/lokeshkatre/SHOPHUB-MERN/assets/102735711/da842c21-661c-4dd4-b7e2-f00897d4c429)
+
 ## Tech Stack
 
 - **Frontend:** React, React Router, CSS
